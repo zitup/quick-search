@@ -8,6 +8,10 @@
 
 https://greasyfork.org/zh-CN/scripts/436684-quicksearch
 
+## 使用
+
+你可以随便找一个带有搜索框的网页，比如百度搜索结果页，按下 '/' 键便会自动聚焦并滚动到搜索框。
+
 ## License
 
 [MIT](LICENSE)
