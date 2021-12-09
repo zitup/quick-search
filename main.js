@@ -76,7 +76,6 @@
 
   // 判断元素是否可见
   function isVisible(element) {
-      // FIXME: type不等于hidden
       const style = getComputedStyle(element)
       return (
           !!element.getClientRects().length &&
